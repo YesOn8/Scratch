@@ -1,0 +1,94 @@
+{
+	"objName": "Бомба-вишня",
+	"sounds": [{
+			"soundName": "pop",
+			"soundID": 0,
+			"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+			"sampleCount": 258,
+			"rate": 11025,
+			"format": ""
+		},
+		{
+			"soundName": "Explosion 2.mp3",
+			"soundID": 1,
+			"md5": "dacf419c20a27b5a7e4d783684e72631.wav",
+			"sampleCount": 46080,
+			"rate": 22050,
+			"format": "adpcm"
+		},
+		{
+			"soundName": "Plant (online-audio-converter.com).mp3",
+			"soundID": 2,
+			"md5": "5a6b181c03c345b8f9e8e5a399ca5e36.wav",
+			"sampleCount": 19323,
+			"rate": 22050,
+			"format": ""
+		}],
+	"costumes": [{
+			"costumeName": "oie_syacvccd7c05_26296-1",
+			"baseLayerID": 0,
+			"baseLayerMD5": "db56219956214ffd65f91cf92980a088.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_syacvccd7c05_26296-2",
+			"baseLayerID": 1,
+			"baseLayerMD5": "255cc601f0f690b889228957da6df943.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_syacvccd7c05_26296-3",
+			"baseLayerID": 2,
+			"baseLayerMD5": "e806e93b0ca962d984caa4b143faed59.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_syacvccd7c05_26296-4",
+			"baseLayerID": 3,
+			"baseLayerMD5": "025d311ab3290c373bc614d0c85b17da.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_syacvccd7c05_26296-5",
+			"baseLayerID": 4,
+			"baseLayerMD5": "ae6965ac4c0a58385c672e74b36bccc3.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_syacvccd7c05_26296-6",
+			"baseLayerID": 5,
+			"baseLayerMD5": "cca0d5230d947b7df3decd6dabc4f1af.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 90,
+			"rotationCenterY": 82
+		},
+		{
+			"costumeName": "oie_transparent(1)",
+			"baseLayerID": 6,
+			"baseLayerMD5": "c0cf49da847cb4d96414978b95b661ea.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 154,
+			"rotationCenterY": 130
+		}],
+	"currentCostumeIndex": 0,
+	"scratchX": 0,
+	"scratchY": 0,
+	"scale": 0.85,
+	"direction": 90,
+	"rotationStyle": "normal",
+	"isDraggable": false,
+	"indexInLibrary": 100000,
+	"visible": true,
+	"spriteInfo": {
+	}
+}

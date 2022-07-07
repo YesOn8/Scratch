@@ -1,0 +1,229 @@
+{
+	"objName": "Зомби",
+	"variables": [{
+			"name": "Y зомби",
+			"value": 0,
+			"isPersistent": false
+		},
+		{
+			"name": "HP Зомби",
+			"value": "100",
+			"isPersistent": false
+		},
+		{
+			"name": "Зомби ряд",
+			"value": 5,
+			"isPersistent": false
+		}],
+	"sounds": [{
+			"soundName": "поп",
+			"soundID": 0,
+			"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+			"sampleCount": 258,
+			"rate": 11025,
+			"format": ""
+		},
+		{
+			"soundName": "Groan (online-audio-converter.com).mp3",
+			"soundID": 1,
+			"md5": "e41e43bb7dbcac816a202bbe933e0cb9.wav",
+			"sampleCount": 28476,
+			"rate": 22050,
+			"format": ""
+		},
+		{
+			"soundName": "Groan5 (online-audio-converter.com).mp3",
+			"soundID": 2,
+			"md5": "74e744fdc4dbc7f25430551391a4ec64.wav",
+			"sampleCount": 35595,
+			"rate": 22050,
+			"format": ""
+		},
+		{
+			"soundName": "The Zombies are ",
+			"soundID": 3,
+			"md5": "9ba57adfc9f710a70413f0ec7c677471.wav",
+			"sampleCount": 69056,
+			"rate": 22050,
+			"format": ""
+		},
+		{
+			"soundName": "Splat.mp3",
+			"soundID": 4,
+			"md5": "d3e31b1047d5913bef1ee282705f6e50.wav",
+			"sampleCount": 14238,
+			"rate": 22050,
+			"format": ""
+		},
+		{
+			"soundName": "Crunch,mp3",
+			"soundID": 5,
+			"md5": "d646e567960b07249ebca6f246b343fd.wav",
+			"sampleCount": 15808,
+			"rate": 22050,
+			"format": ""
+		}],
+	"costumes": [{
+			"costumeName": "TheAdvancing_zombie-38",
+			"baseLayerID": 0,
+			"baseLayerMD5": "c2c7df7a24ddb3d0f4009f3713bce663.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 42,
+			"rotationCenterY": 114
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-39",
+			"baseLayerID": 1,
+			"baseLayerMD5": "92d60be5923b4766badd68dd390bb9d6.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 46,
+			"rotationCenterY": 116
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-40",
+			"baseLayerID": 2,
+			"baseLayerMD5": "5f39588b29fb0b92345104c98776943b.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 50,
+			"rotationCenterY": 116
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-41",
+			"baseLayerID": 3,
+			"baseLayerMD5": "fc2a7bb5d6712238f3c1059936e3c480.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 50,
+			"rotationCenterY": 116
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-42",
+			"baseLayerID": 4,
+			"baseLayerMD5": "2f0423f9c0f6cd97fc0cdcb721ed3486.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 50,
+			"rotationCenterY": 112
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-43",
+			"baseLayerID": 5,
+			"baseLayerMD5": "e5f4807cdbc9ce53d66759655fb7ba1e.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 52,
+			"rotationCenterY": 110
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-44",
+			"baseLayerID": 6,
+			"baseLayerMD5": "e0438dd8f5387c94ec8d196a054183eb.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 52,
+			"rotationCenterY": 106
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-45",
+			"baseLayerID": 7,
+			"baseLayerMD5": "4f94c278e18a6be6230bf0557e2599a8.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 54,
+			"rotationCenterY": 102
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-46",
+			"baseLayerID": 8,
+			"baseLayerMD5": "c3962260f74959c4d77945cd59bc825f.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 58,
+			"rotationCenterY": 100
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-47",
+			"baseLayerID": 9,
+			"baseLayerMD5": "374ee72e8a83333b7ccd4ffcd2ad22c6.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 64,
+			"rotationCenterY": 96
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-48",
+			"baseLayerID": 10,
+			"baseLayerMD5": "05c281fbea37e8b4469a1ad1c218d902.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 70,
+			"rotationCenterY": 96
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-49",
+			"baseLayerID": 11,
+			"baseLayerMD5": "0e6676983a71ffdf8380c81b268e6c44.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 72,
+			"rotationCenterY": 96
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-50",
+			"baseLayerID": 12,
+			"baseLayerMD5": "e52451aee456d241ef4ba07bb6611316.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 74,
+			"rotationCenterY": 96
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-51",
+			"baseLayerID": 13,
+			"baseLayerMD5": "99bfb90263ba2369385bccac9383dfca.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 74,
+			"rotationCenterY": 98
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-52",
+			"baseLayerID": 14,
+			"baseLayerMD5": "9f08087a482ae369f1087975abf4ff53.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 72,
+			"rotationCenterY": 102
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-53",
+			"baseLayerID": 15,
+			"baseLayerMD5": "e6feea4a1e6d31de70fa7a7a63d9a090.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 74,
+			"rotationCenterY": 104
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-54",
+			"baseLayerID": 16,
+			"baseLayerMD5": "381935c7c378c098d30baf62eaf3e283.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 74,
+			"rotationCenterY": 106
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-55",
+			"baseLayerID": 17,
+			"baseLayerMD5": "a0c40de3a450c44bd496458ccf83e682.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 78,
+			"rotationCenterY": 108
+		},
+		{
+			"costumeName": "TheAdvancing_zombie-56",
+			"baseLayerID": 18,
+			"baseLayerMD5": "42dbced47a8750d0467428dfd77d7a0c.png",
+			"bitmapResolution": 2,
+			"rotationCenterX": 76,
+			"rotationCenterY": 108
+		}],
+	"currentCostumeIndex": 0,
+	"scratchX": 0,
+	"scratchY": 0,
+	"scale": 0.5,
+	"direction": 90,
+	"rotationStyle": "normal",
+	"isDraggable": false,
+	"indexInLibrary": 100000,
+	"visible": true,
+	"spriteInfo": {
+	}
+}
